@@ -1,5 +1,5 @@
 ## Hi there 👋 , I'm Osaid 
-Muhammad Osaid Hassan 
+I am Muhammad Osaid Hassan, A Game Dev 
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
