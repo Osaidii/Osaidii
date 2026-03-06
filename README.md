@@ -6,9 +6,9 @@ I am Muhammad Osaid Hassan, A Game Dev
  - [Scarf](https://osaidii.itch.io/scarf/)
 
 ## 🔗 Links
-[![Website](https://osaidii.github.io/)
-[![itch](https://osaidii.itch.io/)
-[![Instagram](https://www.instagram.com/osaidi_9/)
+[![website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://osaidii.github.io/)  
+[![itch](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.osaidii.itch.io/)  
+[![instagram](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://intsgram.com/osaidii)  
 
 ##
 
