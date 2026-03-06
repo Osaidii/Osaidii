@@ -1,8 +1,7 @@
 ## Hi there 👋 , I'm Osaid 
 I am Muhammad Osaid Hassan, A Game Dev 
-## Acknowledgements
+## My Games
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [My Itch Page](https://osaidii.itch.io/)
+ - [Scarf](https://osaidii.itch.io/scarf/)
 
