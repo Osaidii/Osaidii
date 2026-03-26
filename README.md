@@ -6,6 +6,8 @@ I am Muhammad Osaid Hassan, A Game Dev
 ## 🎮 My Games
  - [My Itch Page](https://osaidii.itch.io/)
  - [Scarf](https://osaidii.itch.io/scarf/)
+ - [Awakening Undead!](https://osaidii.itch.io/awakening-undead)
+ - [Don't Stop Me Now](https://osaidii.itch.io/dont-stop-me-now)
   
 
   
