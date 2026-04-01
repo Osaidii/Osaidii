@@ -1,10 +1,7 @@
 ## Hi there 👋 , I'm Osaid 
 I am Muhammad Osaid Hassan, A Game Dev  
 
-
-[Youtube](https://m.youtube.com/@OsaidiiDev)
   
-
 ## 🎮 My Games
  - [My Itch Page](https://osaidii.itch.io/)
  - [Scarf](https://osaidii.itch.io/scarf/)
@@ -18,7 +15,7 @@ I am Muhammad Osaid Hassan, A Game Dev
 [![itch](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://www.osaidii.itch.io/)
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://intsgram.com/osaidii)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanosaid123@gmail.com)
-
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Osaidii)  
   
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
@@ -36,5 +33,3 @@ I am Muhammad Osaid Hassan, A Game Dev
 
 ##
 If you have any feedback, please reach out to me at hassanosaid123@gmail.com
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
