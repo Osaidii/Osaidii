@@ -7,6 +7,7 @@ I am Muhammad Osaid Hassan, A Game Dev
  - [Scarf](https://osaidii.itch.io/scarf/)
  - [Awakening Undead!](https://osaidii.itch.io/awakening-undead)
  - [Don't Stop Me Now](https://osaidii.itch.io/dont-stop-me-now)
+ - [Lost In Cosmos]((https://osaidii.itch.io/lost-in-cosmos))  
   
 
   
