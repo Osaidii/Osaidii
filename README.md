@@ -1,5 +1,5 @@
 ## Hi there 👋 , I'm Osaid 
-I am Muhammad Osaid Hassan, A Game Dev (Learning Web)   
+I am Muhammad Osaid Hassan, A Developer (Mainly Game Dev) 
 [osaidii.github.io](https://osaidii.github.io/)
     
 
