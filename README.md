@@ -2,21 +2,19 @@
 I am Muhammad Osaid Hassan, A Developer (Mainly Game Dev)  
 [my webby](https://osaidii.github.io/)
     
-
   
-## 🎮 My Games
- - [My Itch Page](https://osaidii.itch.io/)
+## 🎮 Project Links
  - [Scarf](https://osaidii.itch.io/scarf/)
  - [Awakening Undead!](https://osaidii.itch.io/awakening-undead)
  - [Don't Stop Me Now](https://osaidii.itch.io/dont-stop-me-now)
  - [Lost In Cosmos](https://osaidii.itch.io/lost-in-cosmos)
+ - [Ziran Shaders](https://modrinth.com/lost-in-cosmos)
   
 
   
-## 🔗 Links
-[![website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://osaidii.github.io/)
-[![itch](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://osaidii.itch.io/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanosaid123@gmail.com)
+## 🔗 Platforms
+#####
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanosaid123@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbneztMweX67LTqniXcYq7A)  
   
 ## 💻 Tech Stack:
