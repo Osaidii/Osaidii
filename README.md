@@ -28,4 +28,4 @@ I am Muhammad Osaid Hassan, A Developer (Mainly Game Dev)
   
   
 ##
-If you have any feedback, please reach out to me at hassanosaid123@gmail.com
+If you want to contact me or have any feedback, please reach out at hassanosaid123@gmail.com
