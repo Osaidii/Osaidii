@@ -12,13 +12,8 @@ I am Muhammad Osaid Hassan, A Developer (Mainly Game Dev)
  - [Ziran Shaders](https://modrinth.com/shader/ziran-shaders)
  - [Wake up to Reality](https://wakeuptoreality.net)
 
-  
 
-  
-## 🔗 Platforms
-#####
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanosaid123@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbneztMweX67LTqniXcYq7A)  
+
   
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
