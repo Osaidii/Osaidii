@@ -10,6 +10,7 @@ I am Muhammad Osaid Hassan, A Developer (Mainly Game Dev)
  - [Lost In Cosmos](https://osaidii.itch.io/lost-in-cosmos)
  - [Fusebound](https://osaidii.itch.io/fusebound)
  - [Ziran Shaders](https://modrinth.com/shader/ziran-shaders)
+ - [Eternal Potions](https://modrinth.com/mod/eternal-potions)
  - [Wake up to Reality](https://wakeuptoreality.net)
 
 
