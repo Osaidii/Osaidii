@@ -1,6 +1,6 @@
 ## Hi there 👋 , I'm Osaid 
 I am Muhammad Osaid Hassan, A Developer (Mainly Game Dev)  
-[my webby](https://osaidii.com/)
+[my website](https://osaidii.com/)
     
   
 ## 🎮 Project Links
