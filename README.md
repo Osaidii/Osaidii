@@ -35,8 +35,8 @@ I am Muhammad Osaid Hassan, A Developer (Mainly Game Dev)
   
   
    
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Quote
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=general)
   
   
 ##
